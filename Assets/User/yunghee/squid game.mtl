@@ -1,0 +1,24 @@
+# Blender MTL File: 'doll bland.blend'
+# Material Count: 2
+
+newmtl squidGameDoll_01_MAT
+Ns 56.250000
+Ka 0.250000 0.250000 0.250000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\user\\Downloads\\3dexport_doll_bland_1634113180\\squidGameDoll_01_MAT_baseColor.jpg
+
+newmtl squidGameDoll_02_MAT
+Ns 56.250000
+Ka 0.095238 0.095238 0.095238
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\user\\Downloads\\3dexport_doll_bland_1634113180\\squidGameDoll_02_MAT_baseColor.jpg1.jpg
